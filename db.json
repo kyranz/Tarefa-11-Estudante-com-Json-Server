@@ -1,0 +1,151 @@
+{
+    "estudantes": [
+        {
+            "id": 156,
+            "nome": "Kyran Armelin Brunelli",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 300,
+            "nota":8,
+            "materia":"Programação Linear e Aplicações",
+            "semestre": 3
+        },    
+        {
+            "id": 355,
+            "nome": "Rogério Ferreira de Souza",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 201,
+            "nota":10,
+            "materia":"Linguagem de Programação IV INTERNET",
+            "semestre": 3
+        },    
+        {
+            "id": 325,
+            "nome": "Jessica Tayane da Silva Gomes",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 899,
+            "nota":7,
+            "materia":"Estatística Aplicada",
+            "semestre": 2
+        },    
+        {
+            "id": 198,
+            "nome": "Sandro Roberto Zovadelli",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 199,
+            "nota":8,
+            "materia":"Linguagem de Programação IV INTERNET",
+            "semestre": 3
+        },    
+        {
+            "id": 345,
+            "nome": "Bruno Henrique dos Santos",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 299,
+            "nota":8,
+            "materia":"Linguagem de Programação IV INTERNET",
+            "semestre": 3
+        },    
+        {
+            "id": 652,
+            "nome": "André Santos Alckmin de Carvalho",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 189,
+            "nota":9,
+            "materia":"Engenharia de Software II",
+            "semestre": 3
+        },    
+        {
+            "id": 266,
+            "nome": "Kevin Cassio Alves Hilgert",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 187,
+            "nota":8,
+            "materia":"Linguagem de Programação IV INTERNET",
+            "semestre": 3
+        },    
+        {
+            "id": 741,
+            "nome": "Alessandro",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 403,
+            "nota":8,
+            "materia":"Sistemas Operacionais II",
+            "semestre": 3
+        },    
+        {
+            "id": 620,
+            "nome": "Fabio Canudo Leão",
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "matricula": 224,
+            "nota":4,
+            "materia":"Linguagem de Programação IV INTERNET",
+            "semestre": 3
+        },    
+        {
+            "id": 300,
+            "nome": "Gabriel Pires Franceschini",
+            "curso": "Mecatrônica Industrial",
+            "matricula": 238,
+            "nota":7,
+            "materia":"Desenho Técnico",
+            "semestre": 2
+        }
+    ],
+
+    "professores": [
+        {
+            "id": 985,
+             "nome": "Pedro Pedrada Pedroso",
+             "curso": "Análise e Desenvolvimento de Sistemas",
+             "matricula": 563
+        },        
+        {
+            "id": 654,
+             "nome": "Jorge Amado",
+             "curso": "Análise e Desenvolvimento de Sistemas",
+             "matricula": 221
+        },        
+        {
+            "id": 879,
+             "nome": "Marquinhos da Silva",
+             "curso": "Análise e Desenvolvimento de Sistemas",
+             "matricula": 171
+        },        
+        {
+            "id": 156,
+             "nome": "Maria Antonieta",
+             "curso": "Análise e Desenvolvimento de Sistemas",
+             "matricula": 300
+        },        
+        {
+            "id": 498,
+             "nome": "Bruna Melare",
+             "curso": "Análise e Desenvolvimento de Sistemas",
+             "matricula": 438
+        },        
+        {
+            "id": 236,
+             "nome": "Thiago Silva",
+             "curso": "Mecatrônica Industrial",
+             "matricula": 816
+        },        
+        {
+            "id": 489,
+             "nome": "Vitor Oliveira",
+             "curso": "Mecatrônica Industrial",
+             "matricula": 219
+        },        
+        {
+            "id": 698,
+             "nome": "Rafaela Anciã",
+             "curso": "Mecatrônica Industrial",
+             "matricula": 138
+        },        
+        {
+            "id": 659,
+             "nome": "Paula Tejando",
+             "curso": "Mecatrônica Industrial",
+             "matricula": 993
+        }
+    ]
+}
